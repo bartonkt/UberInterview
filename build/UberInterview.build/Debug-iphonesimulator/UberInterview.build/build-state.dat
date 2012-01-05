@@ -1,0 +1,1159 @@
+TUberInterview
+v7
+r0
+t347128188.898340
+cCheck dependencies
+cProcessInfoPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/Info.plist UberInterview-Info.plist
+cCompileXIB /Users/cbarton/Documents/UberInterview/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/UberInterview.app/08-chat.png 08-chat.png
+cCpResource build/Debug-iphonesimulator/UberInterview.app/23-bird.png 23-bird.png
+cCpResource build/Debug-iphonesimulator/UberInterview.app/34-coffee.png 34-coffee.png
+cCpResource build/Debug-iphonesimulator/UberInterview.app/39-spraycan.png 39-spraycan.png
+cCompileXIB /Users/cbarton/Documents/UberInterview/GeneralTableView.xib
+cCompileXIB /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailView.xib
+cCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/general.plist general.plist
+cCpResource build/Debug-iphonesimulator/UberInterview.app/background.png background.png
+cCpResource build/Debug-iphonesimulator/UberInterview.app/ubermind_bullet.png ubermind_bullet.png
+cCpResource build/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med.png ubermind_icon_med.png
+cCpResource build/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med1.png ubermind_icon_med1.png
+cCpResource build/Debug-iphonesimulator/UberInterview.app/icon.png icon.png
+cCompileXIB /Users/cbarton/Documents/UberInterview/Classes/PMTableView.xib
+cCompileXIB /Users/cbarton/Documents/UberInterview/Classes/DesignTableView.xib
+cCompileXIB /Users/cbarton/Documents/UberInterview/Classes/MobileOSTableView.xib
+cCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/design.plist design.plist
+cCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/mobileOS.plist mobileOS.plist
+cCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/pm.plist pm.plist
+cCompileXIB /Users/cbarton/Documents/UberInterview/Classes/PMDetailView.xib
+cCompileXIB /Users/cbarton/Documents/UberInterview/Classes/DesignDetailView.xib
+cCompileXIB /Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailView.xib
+cProcessPCH /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch.gch UberInterview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/main.o /Users/cbarton/Documents/UberInterview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/UberInterviewAppDelegate.o /Users/cbarton/Documents/UberInterview/Classes/UberInterviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralNavController.o /Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralTableViewController.o /Users/cbarton/Documents/UberInterview/Classes/GeneralTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralDetailViewController.o /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMNavController.o /Users/cbarton/Documents/UberInterview/Classes/PMNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignNavController.o /Users/cbarton/Documents/UberInterview/Classes/DesignNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSNavController.o /Users/cbarton/Documents/UberInterview/Classes/MobileOSNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMTableViewController.o /Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignTableViewController.o /Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSTableViewController.o /Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMDetailViewController.o /Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignDetailViewController.o /Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSDetailViewController.o /Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview normal i386
+cGenerateDSYMFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app.dSYM /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview
+cTouch /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/cbarton/Documents/UberInterview/08-chat.png
+c000000004CB8B4CC0000000000000BC2
+t1287173324
+s3010
+
+N/Users/cbarton/Documents/UberInterview/23-bird.png
+c000000004CB8B4DA0000000000000BFF
+t1287173338
+s3071
+
+N/Users/cbarton/Documents/UberInterview/34-coffee.png
+c000000004CB8B4DE0000000000000BEC
+t1287173342
+s3052
+
+N/Users/cbarton/Documents/UberInterview/39-spraycan.png
+c000000004CB8B4DE0000000000000B9F
+t1287173342
+s2975
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignDetailView.xib
+c000000004EFFEA3000000000000049E6
+t1325394480
+s18918
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.h
+c000000004EFFE2250000000000000192
+t1325392421
+s402
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.m
+c000000004F0087AF0000000000000B91
+t1325434799
+s2961
+i"DesignDetailViewController.h"
+i"DesignTableViewController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.xib
+c000000004EFFE1650000000000001889
+t1325392229
+s6281
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignNavController.h
+c000000004EFFDC5200000000000000F9
+t1325390930
+s249
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignNavController.m
+c000000004EFFDA1B000000000000062F
+t1325390363
+s1583
+i"DesignNavController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignTableView.xib
+c000000004F0083F00000000000004941
+t1325433840
+s18753
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.h
+c000000004EFFDC2D000000000000022A
+t1325390893
+s554
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.m
+c000000004EFFE0160000000000001393
+t1325391894
+s5011
+i"DesignTableViewController.h"
+i"DesignDetailViewController.h"
+i"UberInterviewAppDelegate.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.xib
+c000000004EFFDAC70000000000001886
+t1325390535
+s6278
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailView.xib
+c000000004EFF8D0A0000000000004D11
+t1325370634
+s19729
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.h
+c000000004EFFD17F0000000000000193
+t1325388159
+s403
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.m
+c000000004EFFD84400000000000024C3
+t1325389892
+s9411
+i"GeneralDetailViewController.h"
+i"GeneralTableViewController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.xib
+c000000004EFE6B7B0000000000004353
+t1325296507
+s17235
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.h
+c000000004EFE378300000000000000FA
+t1325283203
+s250
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.m
+c000000004EFE376D00000000000005BA
+t1325283181
+s1466
+i"GeneralNavController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.xib
+c000000004EFE376E0000000000001877
+t1325283182
+s6263
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralTableViewController.h
+c000000004EFFDC2A0000000000000232
+t1325390890
+s562
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/GeneralTableViewController.m
+c000000004EFFEBE700000000000013B5
+t1325394919
+s5045
+i"GeneralTableViewController.h"
+i"GeneralDetailViewController.h"
+i"UberInterviewAppDelegate.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailView.xib
+c000000004EFFEA4800000000000049E7
+t1325394504
+s18919
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.h
+c000000004EFFE2330000000000000196
+t1325392435
+s406
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.m
+c000000004F0089F90000000000000D5D
+t1325435385
+s3421
+i"MobileOSDetailViewController.h"
+i"MobileOSTableViewController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.xib
+c000000004EFFE180000000000000188F
+t1325392256
+s6287
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSNavController.h
+c000000004EFFDA4000000000000000FC
+t1325390400
+s252
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSNavController.m
+c000000004EFFDA380000000000000635
+t1325390392
+s1589
+i"MobileOSNavController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSTableView.xib
+c000000004F0083FE00000000000048AE
+t1325433854
+s18606
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.h
+c000000004EFFE47E000000000000023F
+t1325393022
+s575
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.m
+c000000004EFFE3E600000000000013C5
+t1325392870
+s5061
+i"MobileOSTableViewController.h"
+i"MobileOSDetailViewController.h"
+i"UberInterviewAppDelegate.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.xib
+c000000004EFFDAFB000000000000188C
+t1325390587
+s6284
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMDetailView.xib
+c000000004EFFEA0F00000000000049DA
+t1325394447
+s18906
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.h
+c000000004EFFE226000000000000018A
+t1325392422
+s394
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.m
+c000000004F00863F0000000000001F63
+t1325434431
+s8035
+i"PMDetailViewController.h"
+i"PMTableViewController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.xib
+c000000004EFFE137000000000000187D
+t1325392183
+s6269
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMNavController.h
+c000000004EFFE1C200000000000000F0
+t1325392322
+s240
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMNavController.m
+c000000004EFFD9E90000000000000623
+t1325390313
+s1571
+i"PMNavController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMTableView.xib
+c000000004F0083D9000000000000487F
+t1325433817
+s18559
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.h
+c000000004EFFED080000000000000202
+t1325395208
+s514
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.m
+c000000004EFFE0140000000000001356
+t1325391892
+s4950
+i"PMTableViewController.h"
+i"PMDetailViewController.h"
+i"UberInterviewAppDelegate.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.xib
+c000000004EFFDAA2000000000000187A
+t1325390498
+s6266
+
+N/Users/cbarton/Documents/UberInterview/Classes/UberInterviewAppDelegate.h
+c000000004EFFED650000000000000455
+t1325395301
+s1109
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/UberInterviewAppDelegate.m
+c000000004F0082840000000000000BC4
+t1325433476
+s3012
+i"UberInterviewAppDelegate.h"
+i"GeneralNavController.h"
+i"PMNavController.h"
+i"DesignNavController.h"
+i"MobileOSNavController.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/test.h
+c000000004EFE3C1D00000000000000D4
+t1325284381
+s212
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/Classes/test.m
+c000000004EFE3C1D000000000000058A
+t1325284381
+s1418
+i"test.h"
+
+N/Users/cbarton/Documents/UberInterview/Classes/test.xib
+c000000004EFE3C1D0000000000001847
+t1325284381
+s6215
+
+N/Users/cbarton/Documents/UberInterview/GeneralTableView.xib
+c000000004EFE3B51000000000000494F
+t1325284177
+s18767
+
+N/Users/cbarton/Documents/UberInterview/GeneralView.xib
+c000000004EFE39AA0000000000001643
+t1325283754
+s5699
+
+N/Users/cbarton/Documents/UberInterview/MainWindow.xib
+c000000004F008333000000000000C3B2
+t1325433651
+s50098
+
+N/Users/cbarton/Documents/UberInterview/TPL.plist
+c000000004EFE7CE7000000000000028F
+t1325300967
+s655
+
+N/Users/cbarton/Documents/UberInterview/UberInterview_Prefix.pch
+c000000004EFE34AB00000000000000C3
+t1325282475
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/background.png
+c000000004EFE894C0000000000003853
+t1325304140
+s14419
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app
+t1325435388
+s918
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app.dSYM
+t1325435388
+s102
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/08-chat.png
+t1325400736
+s3010
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/23-bird.png
+t1325400736
+s3071
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/34-coffee.png
+t1325400736
+s3052
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/39-spraycan.png
+t1325400736
+s2975
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/DesignDetailView.nib
+t1325400736
+s2634
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/DesignDetailViewController.nib
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/DesignTableView.nib
+t1325433857
+s1763
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/DesignTableViewController.nib
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralDetailView.nib
+t1325400736
+s4007
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralDetailViewController.nib
+t1325296718
+s2032
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralNavController.nib
+t1325283696
+s1231
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralTableView.nib
+t1325400736
+s1764
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralView.nib
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/Info.plist
+t1325400736
+s649
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/MainWindow.nib
+t1325433653
+s6242
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/MobileOSDetailView.nib
+t1325400736
+s2634
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/MobileOSDetailViewController.nib
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/MobileOSTableView.nib
+t1325433857
+s1765
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/MobileOSTableViewController.nib
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/PMDetailView.nib
+t1325400736
+s2634
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/PMDetailViewController.nib
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/PMTableView.nib
+t1325433857
+s1757
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/PMTableViewController.nib
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/PkgInfo
+t1325400736
+s8
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/TPL.plist
+t1325364913
+s399
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview
+t1325435388
+s91052
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/background.png
+t1325400736
+s14419
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/design.plist
+t1325434667
+s165
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/general.plist
+t1325400736
+s399
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/icon.png
+t1325400736
+s2148
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/mobileOS.plist
+t1325435388
+s150
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/pm.plist
+t1325434434
+s542
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/test.nib
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/ubermind_bullet.png
+t1325400736
+s211
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med.png
+t1325400736
+s2215
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med1.png
+t1325400736
+s2082
+
+N/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med2.png
+t1325364322
+s2148
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignDetailViewController.o
+t1325434803
+s45548
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignNavController.o
+t1325400737
+s39820
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignTableViewController.o
+t1325400737
+s49328
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralDetailViewController.o
+t1325400737
+s57488
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralNavController.o
+t1325400737
+s39840
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralTableViewController.o
+t1325400737
+s49416
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSDetailViewController.o
+t1325435388
+s46136
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSNavController.o
+t1325400737
+s39860
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSTableViewController.o
+t1325400737
+s49500
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMDetailViewController.o
+t1325434434
+s55968
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMNavController.o
+t1325400737
+s39736
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMTableViewController.o
+t1325400737
+s49004
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/UberInterview.LinkFileList
+c000000004F0002A0000000000000084D
+t1325400736
+s2125
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/UberInterviewAppDelegate.o
+t1325433519
+s60048
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/main.o
+t1325400737
+s6312
+
+N/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/test.o
+t2
+s0
+
+N/Users/cbarton/Documents/UberInterview/design.plist
+c000000004F00872B0000000000000171
+t1325434667
+s369
+
+N/Users/cbarton/Documents/UberInterview/general.plist
+c000000004EFE7CE7000000000000028F
+t1325300967
+s655
+
+N/Users/cbarton/Documents/UberInterview/icon.png
+c000000004EFCA1540000000000000864
+t1325179220
+s2148
+
+N/Users/cbarton/Documents/UberInterview/main.m
+c000000004EFE34AB0000000000000171
+t1325282475
+s369
+i<UIKit/UIKit.h>
+
+N/Users/cbarton/Documents/UberInterview/mobileOS.plist
+c000000004F00891F0000000000000174
+t1325435167
+s372
+
+N/Users/cbarton/Documents/UberInterview/pm.plist
+c000000004F008642000000000000030C
+t1325434434
+s780
+
+N/Users/cbarton/Documents/UberInterview/ubermind_bullet.png
+c000000004EFB4E4600000000000000D3
+t1325092422
+s211
+
+N/Users/cbarton/Documents/UberInterview/ubermind_icon_med.png
+c000000004EFB509C00000000000008A7
+t1325093020
+s2215
+
+N/Users/cbarton/Documents/UberInterview/ubermind_icon_med1.png
+c000000004EFCA0500000000000000822
+t1325178960
+s2082
+
+N/Users/cbarton/Documents/UberInterview/ubermind_icon_med2.png
+c000000004EFCA1540000000000000864
+t1325179220
+s2148
+
+N/var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch.gch
+t1325400737
+s15814064
+
+NUberInterview-Info.plist
+c000000004EFF76680000000000000395
+t1325364840
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347128188#347128188#0(0"0(0#1#0"8642858784#0"0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignDetailViewController.o /Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347127603.442379
+e347127603.539945
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignDetailViewController.o
+x/Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.m347127603#347127603#0(0"0(0#0#75"/Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.m8633269888#2092"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignDetailViewController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignNavController.o /Users/cbarton/Documents/UberInterview/Classes/DesignNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.491831
+e347093537.574825
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignNavController.o
+x/Users/cbarton/Documents/UberInterview/Classes/DesignNavController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/cbarton/Documents/UberInterview/Classes/DesignNavController.m347093537#347093537#0(0"0(0#0#68"/Users/cbarton/Documents/UberInterview/Classes/DesignNavController.m8657231648#2078"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/DesignNavController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignNavController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignTableViewController.o /Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.565197
+e347093537.649590
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignTableViewController.o
+x/Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.m347093537#347093537#0(0"0(0#0#74"/Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.m8646528480#2090"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/DesignTableViewController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralDetailViewController.o /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.489679
+e347093537.586238
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralDetailViewController.o
+x/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.m347093537#347093537#0(0"0(0#0#76"/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.m8659050592#2094"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralDetailViewController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralNavController.o /Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.487886
+e347093537.563835
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralNavController.o
+x/Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.m347093537#347093537#0(0"0(0#0#69"/Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.m8663156640#2080"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralNavController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralTableViewController.o /Users/cbarton/Documents/UberInterview/Classes/GeneralTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.488646
+e347093537.593728
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralTableViewController.o
+x/Users/cbarton/Documents/UberInterview/Classes/GeneralTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/cbarton/Documents/UberInterview/Classes/GeneralTableViewController.m347093537#347093537#0(0"0(0#0#75"/Users/cbarton/Documents/UberInterview/Classes/GeneralTableViewController.m8660388672#2092"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/GeneralTableViewController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/GeneralTableViewController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSDetailViewController.o /Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347128188.736765
+e347128188.838927
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSDetailViewController.o
+x/Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.m347128188#347128188#0(0"0(0#0#77"/Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.m8640554592#2096"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSDetailViewController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSNavController.o /Users/cbarton/Documents/UberInterview/Classes/MobileOSNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.493226
+e347093537.575026
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSNavController.o
+x/Users/cbarton/Documents/UberInterview/Classes/MobileOSNavController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/cbarton/Documents/UberInterview/Classes/MobileOSNavController.m347093537#347093537#0(0"0(0#0#70"/Users/cbarton/Documents/UberInterview/Classes/MobileOSNavController.m8647964800#2082"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/MobileOSNavController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSNavController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSTableViewController.o /Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.573358
+e347093537.663760
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSTableViewController.o
+x/Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.m347093537#347093537#0(0"0(0#0#76"/Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.m8645202272#2094"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/MobileOSTableViewController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMDetailViewController.o /Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347127234.796783
+e347127234.894824
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMDetailViewController.o
+x/Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.m347127234#347127234#0(0"0(0#0#71"/Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.m8636234752#2084"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMDetailViewController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMNavController.o /Users/cbarton/Documents/UberInterview/Classes/PMNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.490701
+e347093537.573234
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMNavController.o
+x/Users/cbarton/Documents/UberInterview/Classes/PMNavController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/cbarton/Documents/UberInterview/Classes/PMNavController.m347093537#347093537#0(0"0(0#0#64"/Users/cbarton/Documents/UberInterview/Classes/PMNavController.m8657936416#2070"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/PMNavController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMNavController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMTableViewController.o /Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.563953
+e347093537.663476
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMTableViewController.o
+x/Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.m347093537#347093537#0(0"0(0#0#70"/Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.m8647181184#2082"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/PMTableViewController.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/UberInterviewAppDelegate.o /Users/cbarton/Documents/UberInterview/Classes/UberInterviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347126319.233507
+e347126319.336209
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/UberInterviewAppDelegate.o
+x/Users/cbarton/Documents/UberInterview/Classes/UberInterviewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/cbarton/Documents/UberInterview/Classes/UberInterviewAppDelegate.m347126319#347126319#0(0"0(0#0#73"/Users/cbarton/Documents/UberInterview/Classes/UberInterviewAppDelegate.m8648059616#2088"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/Classes/UberInterviewAppDelegate.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/UberInterviewAppDelegate.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/main.o /Users/cbarton/Documents/UberInterview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093537.486251
+e347093537.563504
+r1
+xCompileC
+xbuild/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/main.o
+x/Users/cbarton/Documents/UberInterview/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/cbarton/Documents/UberInterview/main.m347093537#347093537#0(0"0(0#0#45"/Users/cbarton/Documents/UberInterview/main.m8638933568#2040"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -include /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch -c /Users/cbarton/Documents/UberInterview/main.m -o /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/test.o /Users/cbarton/Documents/UberInterview/Classes/test.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/DesignDetailView.xib
+s347093536.331817
+e347093536.756051
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/DesignDetailView.xib
+lSLF07#2@39"CompileXIB Classes/DesignDetailView.xib347093536#347093536#0(0"0(0#0#67"/Users/cbarton/Documents/UberInterview/Classes/DesignDetailView.xib8659019200#596"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/DesignDetailView.nib /Users/cbarton/Documents/UberInterview/Classes/DesignDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/DesignDetailViewController.xib
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/DesignTableView.xib
+s347126657.643995
+e347126657.992864
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/DesignTableView.xib
+lSLF07#2@38"CompileXIB Classes/DesignTableView.xib347126657#347126657#0(0"0(0#0#66"/Users/cbarton/Documents/UberInterview/Classes/DesignTableView.xib8599767616#594"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/DesignTableView.nib /Users/cbarton/Documents/UberInterview/Classes/DesignTableView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/DesignTableViewController.xib
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailView.xib
+s347093536.035770
+e347093536.570479
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailView.xib
+lSLF07#2@40"CompileXIB Classes/GeneralDetailView.xib347093536#347093536#0(0"0(0#0#68"/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailView.xib8645282304#598"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralDetailView.nib /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.xib
+s346989517.832885
+e346989518.178938
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.xib
+lSLF07#2@50"CompileXIB Classes/GeneralDetailViewController.xib346989517#346989518#0(0"0(0#0#78"/Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.xib8643685824#618"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralDetailViewController.nib /Users/cbarton/Documents/UberInterview/Classes/GeneralDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.xib
+s346976495.827791
+e346976496.145861
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.xib
+lSLF07#2@43"CompileXIB Classes/GeneralNavController.xib346976495#346976496#0(0"0(0#0#71"/Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.xib8614716192#604"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralNavController.nib /Users/cbarton/Documents/UberInterview/Classes/GeneralNavController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailView.xib
+s347093536.464475
+e347093536.857412
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailView.xib
+lSLF07#2@41"CompileXIB Classes/MobileOSDetailView.xib347093536#347093536#0(0"0(0#0#69"/Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailView.xib8661133792#600"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/MobileOSDetailView.nib /Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/MobileOSDetailViewController.xib
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/MobileOSTableView.xib
+s347126657.644483
+e347126657.992205
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/MobileOSTableView.xib
+lSLF07#2@40"CompileXIB Classes/MobileOSTableView.xib347126657#347126657#0(0"0(0#0#68"/Users/cbarton/Documents/UberInterview/Classes/MobileOSTableView.xib8617800704#598"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/MobileOSTableView.nib /Users/cbarton/Documents/UberInterview/Classes/MobileOSTableView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/MobileOSTableViewController.xib
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/PMDetailView.xib
+s347093536.330640
+e347093536.745631
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/PMDetailView.xib
+lSLF07#2@35"CompileXIB Classes/PMDetailView.xib347093536#347093536#0(0"0(0#0#63"/Users/cbarton/Documents/UberInterview/Classes/PMDetailView.xib8659596576#588"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/PMDetailView.nib /Users/cbarton/Documents/UberInterview/Classes/PMDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/PMDetailViewController.xib
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/PMTableView.xib
+s347126657.643407
+e347126657.992694
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/Classes/PMTableView.xib
+lSLF07#2@34"CompileXIB Classes/PMTableView.xib347126657#347126657#0(0"0(0#0#62"/Users/cbarton/Documents/UberInterview/Classes/PMTableView.xib8643473056#586"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/PMTableView.nib /Users/cbarton/Documents/UberInterview/Classes/PMTableView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/PMTableViewController.xib
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/Classes/test.xib
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/GeneralTableView.xib
+s347093536.034856
+e347093536.464384
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/GeneralTableView.xib
+lSLF07#2@31"CompileXIB GeneralTableView.xib347093536#347093536#0(0"0(0#0#59"/Users/cbarton/Documents/UberInterview/GeneralTableView.xib8645349408#588"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/GeneralTableView.nib /Users/cbarton/Documents/UberInterview/GeneralTableView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/GeneralView.xib
+r0
+
+CCompileXIB /Users/cbarton/Documents/UberInterview/MainWindow.xib
+s347126453.528780
+e347126453.919446
+r1
+xCompileXIB
+x/Users/cbarton/Documents/UberInterview/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib347126453#347126453#0(0"0(0#0#53"/Users/cbarton/Documents/UberInterview/MainWindow.xib8632645280#576"    cd /Users/cbarton/Documents/UberInterview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/MainWindow.nib /Users/cbarton/Documents/UberInterview/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/TPL.plist TPL.plist
+s347057713.363231
+e347057713.640386
+r1
+xCopyPlistFile
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/TPL.plist
+xTPL.plist
+lSLF07#2@14"Copy TPL.plist347057713#347057713#0(0"0(0#0#48"/Users/cbarton/Documents/UberInterview/TPL.plist8642776064#390"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 TPL.plist --outdir /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/design.plist design.plist
+s347127467.280829
+e347127467.304811
+r1
+xCopyPlistFile
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/design.plist
+xdesign.plist
+lSLF07#2@17"Copy design.plist347127467#347127467#0(0"0(0#0#51"/Users/cbarton/Documents/UberInterview/design.plist8645128288#393"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 design.plist --outdir /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/general.plist general.plist
+s347093536.036579
+e347093536.283996
+r1
+xCopyPlistFile
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/general.plist
+xgeneral.plist
+lSLF07#2@18"Copy general.plist347093536#347093536#0(0"0(0#0#52"/Users/cbarton/Documents/UberInterview/general.plist8644539744#394"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 general.plist --outdir /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/mobileOS.plist mobileOS.plist
+s347128188.715927
+e347128188.735637
+r1
+xCopyPlistFile
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/mobileOS.plist
+xmobileOS.plist
+lSLF07#2@19"Copy mobileOS.plist347128188#347128188#0(0"0(0#0#53"/Users/cbarton/Documents/UberInterview/mobileOS.plist8642516864#395"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 mobileOS.plist --outdir /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCopyPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/pm.plist pm.plist
+s347127234.530553
+e347127234.795922
+r1
+xCopyPlistFile
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/pm.plist
+xpm.plist
+lSLF07#2@13"Copy pm.plist347127234#347127234#0(0"0(0#0#47"/Users/cbarton/Documents/UberInterview/pm.plist8638801472#389"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 pm.plist --outdir /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/08-chat.png 08-chat.png
+s347093536.032749
+e347093536.037975
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/08-chat.png
+x08-chat.png
+lSLF07#2@16"Copy 08-chat.png347093536#347093536#0(0"0(0#0#50"/Users/cbarton/Documents/UberInterview/08-chat.png8645783328#475"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/08-chat.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/23-bird.png 23-bird.png
+s347093536.033280
+e347093536.040635
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/23-bird.png
+x23-bird.png
+lSLF07#2@16"Copy 23-bird.png347093536#347093536#0(0"0(0#0#50"/Users/cbarton/Documents/UberInterview/23-bird.png8645660928#475"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/23-bird.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/34-coffee.png 34-coffee.png
+s347093536.033793
+e347093536.040795
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/34-coffee.png
+x34-coffee.png
+lSLF07#2@18"Copy 34-coffee.png347093536#347093536#0(0"0(0#0#52"/Users/cbarton/Documents/UberInterview/34-coffee.png8645500576#477"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/34-coffee.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/39-spraycan.png 39-spraycan.png
+s347093536.034307
+e347093536.040947
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/39-spraycan.png
+x39-spraycan.png
+lSLF07#2@20"Copy 39-spraycan.png347093536#347093536#0(0"0(0#0#54"/Users/cbarton/Documents/UberInterview/39-spraycan.png8645461760#479"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/39-spraycan.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/background.png background.png
+s347093536.038084
+e347093536.043506
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png347093536#347093536#0(0"0(0#0#53"/Users/cbarton/Documents/UberInterview/background.png8643672224#478"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/background.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/icon.png icon.png
+s347093536.041803
+e347093536.059995
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png347093536#347093536#0(0"0(0#0#47"/Users/cbarton/Documents/UberInterview/icon.png8641674336#472"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/icon.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/ubermind_bullet.png ubermind_bullet.png
+s347093536.038959
+e347093536.044042
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/ubermind_bullet.png
+xubermind_bullet.png
+lSLF07#2@24"Copy ubermind_bullet.png347093536#347093536#0(0"0(0#0#58"/Users/cbarton/Documents/UberInterview/ubermind_bullet.png8643107904#483"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/ubermind_bullet.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med.png ubermind_icon_med.png
+s347093536.039766
+e347093536.045696
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med.png
+xubermind_icon_med.png
+lSLF07#2@26"Copy ubermind_icon_med.png347093536#347093536#0(0"0(0#0#60"/Users/cbarton/Documents/UberInterview/ubermind_icon_med.png8642338560#485"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/ubermind_icon_med.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med1.png ubermind_icon_med1.png
+s347093536.041052
+e347093536.058694
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med1.png
+xubermind_icon_med1.png
+lSLF07#2@27"Copy ubermind_icon_med1.png347093536#347093536#0(0"0(0#0#61"/Users/cbarton/Documents/UberInterview/ubermind_icon_med1.png8642029440#486"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/ubermind_icon_med1.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CCpResource build/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med2.png ubermind_icon_med2.png
+s347057122.463838
+e347057122.485234
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UberInterview.app/ubermind_icon_med2.png
+xubermind_icon_med2.png
+lSLF07#2@27"Copy ubermind_icon_med2.png347057122#347057122#0(0"0(0#0#61"/Users/cbarton/Documents/UberInterview/ubermind_icon_med2.png8629014112#486"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cbarton/Documents/UberInterview/ubermind_icon_med2.png /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+
+CGenerateDSYMFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app.dSYM /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview
+s347128188.865599
+e347128188.896168
+r1
+xGenerateDSYMFile
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app.dSYM
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/UberInterview.app.dSYM build/Debug-iphonesimulator/UberInterview.app/UberInterview347128188#347128188#0(0"0(0#0#98"/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview8644382880#401"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview -o /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app.dSYM0#
+
+CLd /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview normal i386
+s347128188.839000
+e347128188.865502
+r1
+xLd
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview
+xnormal
+xi386
+lSLF07#2@103"Link /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview347128188#347128188#0(0"0(0#0#0"8659803744#930"    cd /Users/cbarton/Documents/UberInterview    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -filelist /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/Objects-normal/i386/UberInterview.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/UberInterview0#
+
+CProcessInfoPlistFile /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/Info.plist UberInterview-Info.plist
+s347093536.027429
+e347093536.032138
+r1
+xProcessInfoPlistFile
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/Info.plist
+xUberInterview-Info.plist
+lSLF07#2@32"Process UberInterview-Info.plist347093536#347093536#0(0"0(0#0#63"/Users/cbarton/Documents/UberInterview/UberInterview-Info.plist8646371680#497"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UberInterview-Info.plist -genpkginfo /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app/Info.plist0#
+
+CProcessPCH /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch.gch UberInterview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347093536.857509
+e347093537.486156
+r1
+xProcessPCH
+x/var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch.gch
+xUberInterview_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile UberInterview_Prefix.pch347093536#347093537#0(0"0(0#0#63"/Users/cbarton/Documents/UberInterview/UberInterview_Prefix.pch8659020704#1926"    cd /Users/cbarton/Documents/UberInterview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-generated-files.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-own-target-headers.hmap -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-all-target-headers.hmap -iquote /Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/UberInterview-project-headers.hmap -F/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator -I/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/include -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources/i386 -I/Users/cbarton/Documents/UberInterview/build/UberInterview.build/Debug-iphonesimulator/UberInterview.build/DerivedSources -c /Users/cbarton/Documents/UberInterview/UberInterview_Prefix.pch -o /var/folders/31/31F-ZLgSFE0tW2AoIDlpJFEoENI/-Caches-/com.apple.Xcode.338968981/SharedPrecompiledHeaders/UberInterview_Prefix-exnghudkocidwabmpblqzywzrhza/UberInterview_Prefix.pch.gch0#
+
+CTouch /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app
+s347128188.896239
+e347128188.898313
+r1
+xTouch
+x/Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app
+lSLF07#2@90"Touch /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app347128188#347128188#0(0"0(0#0#0"8644208672#284"    cd /Users/cbarton/Documents/UberInterview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cbarton/Documents/UberInterview/build/Debug-iphonesimulator/UberInterview.app0#
+

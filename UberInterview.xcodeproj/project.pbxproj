@@ -1,0 +1,438 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* UberInterviewAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* UberInterviewAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		C4587F3814AE6D95002A574D /* 08-chat.png in Resources */ = {isa = PBXBuildFile; fileRef = C4587F3414AE6D94002A574D /* 08-chat.png */; };
+		C4587F3914AE6D95002A574D /* 23-bird.png in Resources */ = {isa = PBXBuildFile; fileRef = C4587F3514AE6D95002A574D /* 23-bird.png */; };
+		C4587F3A14AE6D95002A574D /* 34-coffee.png in Resources */ = {isa = PBXBuildFile; fileRef = C4587F3614AE6D95002A574D /* 34-coffee.png */; };
+		C4587F3B14AE6D95002A574D /* 39-spraycan.png in Resources */ = {isa = PBXBuildFile; fileRef = C4587F3714AE6D95002A574D /* 39-spraycan.png */; };
+		C4587F4014AE6EEE002A574D /* GeneralNavController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4587F3E14AE6EEE002A574D /* GeneralNavController.m */; };
+		C4587F5514AE6FED002A574D /* GeneralTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4587F5414AE6FED002A574D /* GeneralTableViewController.m */; };
+		C4587F5A14AE712A002A574D /* GeneralTableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4587F5914AE712A002A574D /* GeneralTableView.xib */; };
+		C4587F8514AE766A002A574D /* GeneralDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4587F8314AE766A002A574D /* GeneralDetailViewController.m */; };
+		C4587F8614AE766A002A574D /* GeneralDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4587F8414AE766A002A574D /* GeneralDetailView.xib */; };
+		C458809414AEB375002A574D /* general.plist in Resources */ = {isa = PBXBuildFile; fileRef = C458809314AEB375002A574D /* general.plist */; };
+		C458812814AFABA0002A574D /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = C458812314AFABA0002A574D /* background.png */; };
+		C458812914AFABA0002A574D /* ubermind_bullet.png in Resources */ = {isa = PBXBuildFile; fileRef = C458812414AFABA0002A574D /* ubermind_bullet.png */; };
+		C458812A14AFABA0002A574D /* ubermind_icon_med.png in Resources */ = {isa = PBXBuildFile; fileRef = C458812514AFABA0002A574D /* ubermind_icon_med.png */; };
+		C458812B14AFABA0002A574D /* ubermind_icon_med1.png in Resources */ = {isa = PBXBuildFile; fileRef = C458812614AFABA0002A574D /* ubermind_icon_med1.png */; };
+		C458812C14AFABA0002A574D /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C458812714AFABA0002A574D /* icon.png */; };
+		C458822A14B01169002A574D /* PMNavController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458822914B01169002A574D /* PMNavController.m */; };
+		C458822D14B0119B002A574D /* DesignNavController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458822C14B0119B002A574D /* DesignNavController.m */; };
+		C458823014B011B8002A574D /* MobileOSNavController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458822F14B011B8002A574D /* MobileOSNavController.m */; };
+		C458825214B01222002A574D /* PMTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458825014B01222002A574D /* PMTableViewController.m */; };
+		C458825314B01222002A574D /* PMTableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C458825114B01222002A574D /* PMTableView.xib */; };
+		C458825714B01247002A574D /* DesignTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458825514B01247002A574D /* DesignTableViewController.m */; };
+		C458825814B01247002A574D /* DesignTableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C458825614B01247002A574D /* DesignTableView.xib */; };
+		C458825C14B0127B002A574D /* MobileOSTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458825A14B0127B002A574D /* MobileOSTableViewController.m */; };
+		C458825D14B0127B002A574D /* MobileOSTableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C458825B14B0127B002A574D /* MobileOSTableView.xib */; };
+		C458828614B01592002A574D /* design.plist in Resources */ = {isa = PBXBuildFile; fileRef = C458828314B01592002A574D /* design.plist */; };
+		C458828714B01592002A574D /* mobileOS.plist in Resources */ = {isa = PBXBuildFile; fileRef = C458828414B01592002A574D /* mobileOS.plist */; };
+		C458828814B01592002A574D /* pm.plist in Resources */ = {isa = PBXBuildFile; fileRef = C458828514B01592002A574D /* pm.plist */; };
+		C458829014B018B7002A574D /* PMDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458828E14B018B7002A574D /* PMDetailViewController.m */; };
+		C458829114B018B7002A574D /* PMDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C458828F14B018B7002A574D /* PMDetailView.xib */; };
+		C458829514B018E5002A574D /* DesignDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458829314B018E5002A574D /* DesignDetailViewController.m */; };
+		C458829614B018E5002A574D /* DesignDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C458829414B018E5002A574D /* DesignDetailView.xib */; };
+		C458829A14B01900002A574D /* MobileOSDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C458829814B01900002A574D /* MobileOSDetailViewController.m */; };
+		C458829B14B01900002A574D /* MobileOSDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C458829914B01900002A574D /* MobileOSDetailView.xib */; };
+		C458841614B0F8F5002A574D /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C458841514B0F8F5002A574D /* Default.png */; };
+		C47AA6F914B1415000085879 /* CustomUITabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = C47AA6F814B1415000085879 /* CustomUITabBarController.m */; };
+		C480AC1414B5443A00F671EB /* ubermind_icon_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = C480AC1314B5443A00F671EB /* ubermind_icon_retina.png */; };
+		C480AC1614B5444300F671EB /* background_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = C480AC1514B5444300F671EB /* background_retina.png */; };
+		C480AC1814B5445600F671EB /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C480AC1714B5445600F671EB /* Default@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* UberInterviewAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UberInterviewAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* UberInterviewAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UberInterviewAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* UberInterview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UberInterview.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* UberInterview_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UberInterview_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* UberInterview-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UberInterview-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C4587F3414AE6D94002A574D /* 08-chat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "08-chat.png"; sourceTree = "<group>"; };
+		C4587F3514AE6D95002A574D /* 23-bird.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "23-bird.png"; sourceTree = "<group>"; };
+		C4587F3614AE6D95002A574D /* 34-coffee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "34-coffee.png"; sourceTree = "<group>"; };
+		C4587F3714AE6D95002A574D /* 39-spraycan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "39-spraycan.png"; sourceTree = "<group>"; };
+		C4587F3D14AE6EEE002A574D /* GeneralNavController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneralNavController.h; sourceTree = "<group>"; };
+		C4587F3E14AE6EEE002A574D /* GeneralNavController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneralNavController.m; sourceTree = "<group>"; };
+		C4587F5314AE6FED002A574D /* GeneralTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneralTableViewController.h; sourceTree = "<group>"; };
+		C4587F5414AE6FED002A574D /* GeneralTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneralTableViewController.m; sourceTree = "<group>"; };
+		C4587F5914AE712A002A574D /* GeneralTableView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GeneralTableView.xib; sourceTree = "<group>"; };
+		C4587F8214AE766A002A574D /* GeneralDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneralDetailViewController.h; sourceTree = "<group>"; };
+		C4587F8314AE766A002A574D /* GeneralDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneralDetailViewController.m; sourceTree = "<group>"; };
+		C4587F8414AE766A002A574D /* GeneralDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = GeneralDetailView.xib; path = Classes/GeneralDetailView.xib; sourceTree = "<group>"; };
+		C458809314AEB375002A574D /* general.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = general.plist; sourceTree = "<group>"; };
+		C458812314AFABA0002A574D /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		C458812414AFABA0002A574D /* ubermind_bullet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ubermind_bullet.png; sourceTree = "<group>"; };
+		C458812514AFABA0002A574D /* ubermind_icon_med.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ubermind_icon_med.png; sourceTree = "<group>"; };
+		C458812614AFABA0002A574D /* ubermind_icon_med1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ubermind_icon_med1.png; sourceTree = "<group>"; };
+		C458812714AFABA0002A574D /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		C458822814B01169002A574D /* PMNavController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMNavController.h; sourceTree = "<group>"; };
+		C458822914B01169002A574D /* PMNavController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMNavController.m; sourceTree = "<group>"; };
+		C458822B14B0119B002A574D /* DesignNavController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DesignNavController.h; sourceTree = "<group>"; };
+		C458822C14B0119B002A574D /* DesignNavController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DesignNavController.m; sourceTree = "<group>"; };
+		C458822E14B011B8002A574D /* MobileOSNavController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobileOSNavController.h; sourceTree = "<group>"; };
+		C458822F14B011B8002A574D /* MobileOSNavController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobileOSNavController.m; sourceTree = "<group>"; };
+		C458824F14B01222002A574D /* PMTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMTableViewController.h; sourceTree = "<group>"; };
+		C458825014B01222002A574D /* PMTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMTableViewController.m; sourceTree = "<group>"; };
+		C458825114B01222002A574D /* PMTableView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = PMTableView.xib; path = Classes/PMTableView.xib; sourceTree = "<group>"; };
+		C458825414B01247002A574D /* DesignTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DesignTableViewController.h; sourceTree = "<group>"; };
+		C458825514B01247002A574D /* DesignTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DesignTableViewController.m; sourceTree = "<group>"; };
+		C458825614B01247002A574D /* DesignTableView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DesignTableView.xib; path = Classes/DesignTableView.xib; sourceTree = "<group>"; };
+		C458825914B0127B002A574D /* MobileOSTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobileOSTableViewController.h; sourceTree = "<group>"; };
+		C458825A14B0127B002A574D /* MobileOSTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobileOSTableViewController.m; sourceTree = "<group>"; };
+		C458825B14B0127B002A574D /* MobileOSTableView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MobileOSTableView.xib; path = Classes/MobileOSTableView.xib; sourceTree = "<group>"; };
+		C458828314B01592002A574D /* design.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = design.plist; sourceTree = "<group>"; };
+		C458828414B01592002A574D /* mobileOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = mobileOS.plist; sourceTree = "<group>"; };
+		C458828514B01592002A574D /* pm.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = pm.plist; sourceTree = "<group>"; };
+		C458828D14B018B7002A574D /* PMDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMDetailViewController.h; sourceTree = "<group>"; };
+		C458828E14B018B7002A574D /* PMDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMDetailViewController.m; sourceTree = "<group>"; };
+		C458828F14B018B7002A574D /* PMDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = PMDetailView.xib; path = Classes/PMDetailView.xib; sourceTree = "<group>"; };
+		C458829214B018E5002A574D /* DesignDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DesignDetailViewController.h; sourceTree = "<group>"; };
+		C458829314B018E5002A574D /* DesignDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DesignDetailViewController.m; sourceTree = "<group>"; };
+		C458829414B018E5002A574D /* DesignDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DesignDetailView.xib; path = Classes/DesignDetailView.xib; sourceTree = "<group>"; };
+		C458829714B01900002A574D /* MobileOSDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobileOSDetailViewController.h; sourceTree = "<group>"; };
+		C458829814B01900002A574D /* MobileOSDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobileOSDetailViewController.m; sourceTree = "<group>"; };
+		C458829914B01900002A574D /* MobileOSDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MobileOSDetailView.xib; path = Classes/MobileOSDetailView.xib; sourceTree = "<group>"; };
+		C458841514B0F8F5002A574D /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		C47AA6F714B1415000085879 /* CustomUITabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomUITabBarController.h; sourceTree = "<group>"; };
+		C47AA6F814B1415000085879 /* CustomUITabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomUITabBarController.m; sourceTree = "<group>"; };
+		C480AC1314B5443A00F671EB /* ubermind_icon_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ubermind_icon_retina.png; sourceTree = "<group>"; };
+		C480AC1514B5444300F671EB /* background_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background_retina.png; sourceTree = "<group>"; };
+		C480AC1714B5445600F671EB /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* UberInterviewAppDelegate.h */,
+				1D3623250D0F684500981E51 /* UberInterviewAppDelegate.m */,
+				C4587F3D14AE6EEE002A574D /* GeneralNavController.h */,
+				C4587F3E14AE6EEE002A574D /* GeneralNavController.m */,
+				C4587F5314AE6FED002A574D /* GeneralTableViewController.h */,
+				C4587F5414AE6FED002A574D /* GeneralTableViewController.m */,
+				C4587F8214AE766A002A574D /* GeneralDetailViewController.h */,
+				C4587F8314AE766A002A574D /* GeneralDetailViewController.m */,
+				C458822814B01169002A574D /* PMNavController.h */,
+				C458822914B01169002A574D /* PMNavController.m */,
+				C458824F14B01222002A574D /* PMTableViewController.h */,
+				C458825014B01222002A574D /* PMTableViewController.m */,
+				C458828D14B018B7002A574D /* PMDetailViewController.h */,
+				C458828E14B018B7002A574D /* PMDetailViewController.m */,
+				C458822B14B0119B002A574D /* DesignNavController.h */,
+				C458822C14B0119B002A574D /* DesignNavController.m */,
+				C458825414B01247002A574D /* DesignTableViewController.h */,
+				C458825514B01247002A574D /* DesignTableViewController.m */,
+				C458829214B018E5002A574D /* DesignDetailViewController.h */,
+				C458829314B018E5002A574D /* DesignDetailViewController.m */,
+				C458822E14B011B8002A574D /* MobileOSNavController.h */,
+				C458822F14B011B8002A574D /* MobileOSNavController.m */,
+				C458825914B0127B002A574D /* MobileOSTableViewController.h */,
+				C458825A14B0127B002A574D /* MobileOSTableViewController.m */,
+				C458829714B01900002A574D /* MobileOSDetailViewController.h */,
+				C458829814B01900002A574D /* MobileOSDetailViewController.m */,
+				C47AA6F714B1415000085879 /* CustomUITabBarController.h */,
+				C47AA6F814B1415000085879 /* CustomUITabBarController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* UberInterview.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* UberInterview_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C480AC1714B5445600F671EB /* Default@2x.png */,
+				C458841514B0F8F5002A574D /* Default.png */,
+				C4587F3414AE6D94002A574D /* 08-chat.png */,
+				C458812314AFABA0002A574D /* background.png */,
+				C480AC1514B5444300F671EB /* background_retina.png */,
+				C458812414AFABA0002A574D /* ubermind_bullet.png */,
+				C458812514AFABA0002A574D /* ubermind_icon_med.png */,
+				C458812614AFABA0002A574D /* ubermind_icon_med1.png */,
+				C480AC1314B5443A00F671EB /* ubermind_icon_retina.png */,
+				C458812714AFABA0002A574D /* icon.png */,
+				C4587F3514AE6D95002A574D /* 23-bird.png */,
+				C4587F3614AE6D95002A574D /* 34-coffee.png */,
+				C4587F3714AE6D95002A574D /* 39-spraycan.png */,
+				C458809314AEB375002A574D /* general.plist */,
+				C458828514B01592002A574D /* pm.plist */,
+				C458828314B01592002A574D /* design.plist */,
+				C458828414B01592002A574D /* mobileOS.plist */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				C4587F5914AE712A002A574D /* GeneralTableView.xib */,
+				C4587F8414AE766A002A574D /* GeneralDetailView.xib */,
+				C458825114B01222002A574D /* PMTableView.xib */,
+				C458828F14B018B7002A574D /* PMDetailView.xib */,
+				C458825614B01247002A574D /* DesignTableView.xib */,
+				C458829414B018E5002A574D /* DesignDetailView.xib */,
+				C458825B14B0127B002A574D /* MobileOSTableView.xib */,
+				C458829914B01900002A574D /* MobileOSDetailView.xib */,
+				8D1107310486CEB800E47090 /* UberInterview-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* UberInterview */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UberInterview" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UberInterview;
+			productName = UberInterview;
+			productReference = 1D6058910D05DD3D006BFB54 /* UberInterview.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UberInterview" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* UberInterview */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				C4587F3814AE6D95002A574D /* 08-chat.png in Resources */,
+				C4587F3914AE6D95002A574D /* 23-bird.png in Resources */,
+				C4587F3A14AE6D95002A574D /* 34-coffee.png in Resources */,
+				C4587F3B14AE6D95002A574D /* 39-spraycan.png in Resources */,
+				C4587F5A14AE712A002A574D /* GeneralTableView.xib in Resources */,
+				C4587F8614AE766A002A574D /* GeneralDetailView.xib in Resources */,
+				C458809414AEB375002A574D /* general.plist in Resources */,
+				C458812814AFABA0002A574D /* background.png in Resources */,
+				C458812914AFABA0002A574D /* ubermind_bullet.png in Resources */,
+				C458812A14AFABA0002A574D /* ubermind_icon_med.png in Resources */,
+				C458812B14AFABA0002A574D /* ubermind_icon_med1.png in Resources */,
+				C458812C14AFABA0002A574D /* icon.png in Resources */,
+				C458825314B01222002A574D /* PMTableView.xib in Resources */,
+				C458825814B01247002A574D /* DesignTableView.xib in Resources */,
+				C458825D14B0127B002A574D /* MobileOSTableView.xib in Resources */,
+				C458828614B01592002A574D /* design.plist in Resources */,
+				C458828714B01592002A574D /* mobileOS.plist in Resources */,
+				C458828814B01592002A574D /* pm.plist in Resources */,
+				C458829114B018B7002A574D /* PMDetailView.xib in Resources */,
+				C458829614B018E5002A574D /* DesignDetailView.xib in Resources */,
+				C458829B14B01900002A574D /* MobileOSDetailView.xib in Resources */,
+				C458841614B0F8F5002A574D /* Default.png in Resources */,
+				C480AC1414B5443A00F671EB /* ubermind_icon_retina.png in Resources */,
+				C480AC1614B5444300F671EB /* background_retina.png in Resources */,
+				C480AC1814B5445600F671EB /* Default@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* UberInterviewAppDelegate.m in Sources */,
+				C4587F4014AE6EEE002A574D /* GeneralNavController.m in Sources */,
+				C4587F5514AE6FED002A574D /* GeneralTableViewController.m in Sources */,
+				C4587F8514AE766A002A574D /* GeneralDetailViewController.m in Sources */,
+				C458822A14B01169002A574D /* PMNavController.m in Sources */,
+				C458822D14B0119B002A574D /* DesignNavController.m in Sources */,
+				C458823014B011B8002A574D /* MobileOSNavController.m in Sources */,
+				C458825214B01222002A574D /* PMTableViewController.m in Sources */,
+				C458825714B01247002A574D /* DesignTableViewController.m in Sources */,
+				C458825C14B0127B002A574D /* MobileOSTableViewController.m in Sources */,
+				C458829014B018B7002A574D /* PMDetailViewController.m in Sources */,
+				C458829514B018E5002A574D /* DesignDetailViewController.m in Sources */,
+				C458829A14B01900002A574D /* MobileOSDetailViewController.m in Sources */,
+				C47AA6F914B1415000085879 /* CustomUITabBarController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UberInterview_Prefix.pch;
+				INFOPLIST_FILE = "UberInterview-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				PRODUCT_NAME = UberInterview;
+				SDKROOT = iphoneos5.0;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UberInterview_Prefix.pch;
+				INFOPLIST_FILE = "UberInterview-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				PRODUCT_NAME = UberInterview;
+				SDKROOT = iphoneos5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos4.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos4.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UberInterview" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UberInterview" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

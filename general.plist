@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>What are your Strengths? Weaknesses?</string>
+	<string>What is an example of a positive risk you have taken? Negative?</string>
+	<string>Why are you leaving your current job?</string>
+	<string>What do you do at your current job?</string>
+	<string>How would your boss or a co-worker describe you?</string>
+	<string>How do you react to criticism?</string>
+	<string>What&apos;s your management style?</string>
+	<string>How do you deal with conflict?</string>
+</array>
+</plist>
